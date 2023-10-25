@@ -1,23 +1,23 @@
 # Crawler
 Code that crawls specific sites
 
-News site crawled: latimes.com
+##News site crawled: latimes.com
 Number of threads: 12
 
-Fetch Statistics
+###Fetch Statistics
 ================
-# fetches attempted: 19999
-# fetches succeeded: 16426
-# fetches failed or aborted: 3573
+ fetches attempted: 19999
+ fetches succeeded: 16426
+ fetches failed or aborted: 3573
 
-Outgoing URLs:
+###Outgoing URLs:
 ==============
 Total URLs extracted: 1097152
-# unique URLs extracted: 282398
-# unique URLs within News Site: 159100
-# unique URLs outside News Site: 123298
+ unique URLs extracted: 282398
+ unique URLs within News Site: 159100
+ unique URLs outside News Site: 123298
 
-Status Codes:
+###Status Codes:
 =============
 200 OK: 16426
 301 Moved Permanently: 401
@@ -28,7 +28,7 @@ Status Codes:
 404 Not Found: 14
 410 Gone: 1
 
-File Sizes:
+###File Sizes:
 ===========
 < 1KB: 3
 1KB ~ <10KB: 28
@@ -36,7 +36,7 @@ File Sizes:
 100KB ~ <1MB: 13333
 >= 1MB: 578
 
-Content Types:
+###Content Types:
 ==============
 image/png: 12
 text/html: 16366
